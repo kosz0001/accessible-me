@@ -60,7 +60,7 @@ form textarea {
 }
 
 form button {
-  background: grey;
+  background: lightgray;
   border: 2px solid black;
   padding: 1rem;
   text-transform: uppercase;
